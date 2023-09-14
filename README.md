@@ -15,7 +15,7 @@ Tested on macOS 13 Ventura
 - Microphone (Not possible until VoodooHDA is used, which I won't use)
 - Wi-Fi/BT (RTL8821CE), Using chris1111's WiFi Driver with TPLink Archer T2U Nano
 - en0 is broken because no supported internal interface (i.e. No Apple Services but still can use them by logging in everytime)
-- Electron Apps can crash/freeze your system for a while
+- Electron Apps can crash/freeze your system for a while (set VRAM to 2GB using Smokeless UMAF)
 - You tell me
 
 Thanks to NootedRed for making this possible.
