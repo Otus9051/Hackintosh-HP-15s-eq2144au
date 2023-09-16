@@ -13,10 +13,11 @@ Tested on macOS 13 Ventura
 - Keyboard / Touchpad
 - Camera / SDCard Reader / Aux
 - Fn Keys
+- Apparently HP uses Broadcom Bluetooth, so it works
 
 ## What does NOT work:
 - Microphone (Not possible until VoodooHDA is used, which I won't use)
-- Wi-Fi/BT (RTL8821CE), Using chris1111's WiFi Driver with TPLink Archer T2U Nano
+- Wi-Fi (RTL8821CE), Using chris1111's WiFi Driver with TPLink Archer T2U Nano
 - en0 is broken because no supported internal interface (i.e. No Apple Services but still can use them by logging in everytime)
 - Electron Apps can crash/freeze your system for a while (set VRAM to 2GB using Smokeless UMAF)
 - You tell me
