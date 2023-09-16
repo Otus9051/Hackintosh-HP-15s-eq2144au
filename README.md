@@ -1,5 +1,8 @@
 # OpenCore EFI Files for my HP 15s EQ2144AU
 
+![macOS Screenshot](https://github.com/Otus9051/Hackintosh-HP-15s-eq2144au/assets/58171861/8b4212e3-d406-4217-8e79-6eec43db214f)
+
+
 ## What Works:
 Tested on macOS 13 Ventura
 - AMD iGPU (NootedRed)
