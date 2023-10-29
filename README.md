@@ -3,6 +3,8 @@
 ![macOS Screenshot](https://github.com/Otus9051/Hackintosh-HP-15s-eq2144au/assets/58171861/8b4212e3-d406-4217-8e79-6eec43db214f)
 
 
+## THIS EFI ONLY WORKS ON RYZEN 3 5300U DUE TO THE DSTDS BEING COMPILED FOR IT. STOP BEING LAZY AND COMPILE YOUR OWN DSDTS FOR YOUR OWN CPUS.
+
 ## What Works:
 Tested on macOS 13 Ventura
 - AMD iGPU (NootedRed)
