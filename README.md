@@ -16,9 +16,9 @@ Tested on macOS 13 Ventura
 - Camera / SDCard Reader / Aux
 - Fn Keys
 - Bluetooth
+- Microphone (with AMDMicrophone kext, see pinned issue for more details.)
 
 ## What does NOT work:
-- Microphone (Bluetooth works, in-built is not possible until VoodooHDA is used, which I won't use)
 - Wi-Fi (RTL8821CE), Using chris1111's WiFi Driver with TPLink Archer T2U Nano
 - Electron Apps can crash/freeze your system for a while (set VRAM to 2GB using Smokeless UMAF)
 - You tell me
