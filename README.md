@@ -24,4 +24,3 @@ Tested on macOS 13 Ventura
 - You tell me
 
 Thanks to NootedRed for making this possible.
-If anyone has a fix for the Wi-Fi and Microphone, please create an issue.
