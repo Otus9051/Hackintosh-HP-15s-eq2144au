@@ -9,7 +9,7 @@
 Tested on macOS 13 Ventura
 - AMD iGPU (NootedRed)
 - Sound with ALCID 55
-- USB (USB C was not tested)
+- USB A/C
 - Power / Battery Status
 - Brightness Controls
 - Keyboard / Touchpad
