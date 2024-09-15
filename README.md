@@ -8,12 +8,13 @@
 ## What Works:
 Tested on macOS 13 Ventura
 - AMD iGPU (NootedRed)
-- Sound with ALCID 55
+- External Display via HDMI
+- Sound with ALCID 13
 - USB A/C
 - Power / Battery Status
 - Brightness Controls
 - Keyboard / Touchpad
-- Camera / SDCard Reader / Aux
+- Camera / Aux
 - Fn Keys
 - Bluetooth
 - Microphone (with AMDMicrophone kext, see pinned issue for more details.)
@@ -21,6 +22,7 @@ Tested on macOS 13 Ventura
 ## What does NOT work:
 - Wi-Fi (RTL8821CE), Using chris1111's WiFi Driver with TPLink Archer T2U Nano
 - Electron Apps can crash/freeze your system for a while (set VRAM to 2GB using Smokeless UMAF)
+- SDCard Reader is broken (!)
 - You tell me
 
 Thanks to NootedRed for making this possible.
